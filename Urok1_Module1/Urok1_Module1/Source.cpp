@@ -12,7 +12,7 @@ void main()
 	srand(time(NULL));
 	system("color 1A");
 
-	int i, j, n;
+	int n;
 
 	do
 	{
